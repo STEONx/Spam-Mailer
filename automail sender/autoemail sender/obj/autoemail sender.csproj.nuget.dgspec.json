@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\autoemail sender\\autoemail sender\\autoemail sender.csproj": {}
+    "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\automail sender\\autoemail sender\\autoemail sender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\autoemail sender\\autoemail sender\\autoemail sender.csproj": {
+    "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\automail sender\\autoemail sender\\autoemail sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\autoemail sender\\autoemail sender\\autoemail sender.csproj",
+        "projectUniqueName": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\automail sender\\autoemail sender\\autoemail sender.csproj",
         "projectName": "autoemail sender",
-        "projectPath": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\autoemail sender\\autoemail sender\\autoemail sender.csproj",
+        "projectPath": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\automail sender\\autoemail sender\\autoemail sender.csproj",
         "packagesPath": "C:\\Users\\LeonS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\autoemail sender\\autoemail sender\\obj\\",
+        "outputPath": "C:\\Users\\LeonS\\OneDrive\\Programieren\\C#\\Übungen\\automail sender\\autoemail sender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LeonS\\AppData\\Roaming\\NuGet\\NuGet.Config",

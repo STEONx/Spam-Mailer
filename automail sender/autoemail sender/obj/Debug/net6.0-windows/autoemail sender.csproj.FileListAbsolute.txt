@@ -15,3 +15,20 @@ C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\autoemail sender\autoemail send
 C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\autoemail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.pdb
 C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\autoemail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.genruntimeconfig.cache
 C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\autoemail sender\autoemail sender\obj\Debug\net6.0-windows\ref\autoemail sender.dll
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\bin\Debug\net6.0-windows\autoemail sender.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\bin\Debug\net6.0-windows\autoemail sender.deps.json
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\bin\Debug\net6.0-windows\autoemail sender.runtimeconfig.json
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\bin\Debug\net6.0-windows\autoemail sender.dll
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\bin\Debug\net6.0-windows\autoemail sender.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.csproj.AssemblyReference.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail_sender.Form1.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.csproj.GenerateResource.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.AssemblyInfoInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.AssemblyInfo.cs
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.csproj.CoreCompileInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.dll
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\refint\autoemail sender.dll
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\autoemail sender.genruntimeconfig.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\automail sender\autoemail sender\obj\Debug\net6.0-windows\ref\autoemail sender.dll
